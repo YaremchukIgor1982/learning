@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="api.Access_Management.AccessMng.token" />
+          <option value="api.Access_Management.AccessMng.organizations" />
+          <option value="api.Access_Management.AccessMng.users" />
+          <option value="api.Access_Management.AccessMng.base_uri" />
+          <option value="api.Parcels.ParcelsService.asg" />
+          <option value="api.Devices.Devices.scangates" />
+          <option value="api.Fedex.Fedex.attributes" />
+          <option value="api.Access_Management.AccessMng.subscriptions" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
